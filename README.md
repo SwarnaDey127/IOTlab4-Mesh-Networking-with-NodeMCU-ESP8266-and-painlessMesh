@@ -1,1 +1,2 @@
 # IOTlab4-Mesh-Networking-with-NodeMCU-ESP8266-and-painlessMesh
+This project demonstrates setting up a self-healing, multi-hop mesh network using NodeMCU ESP8266 boards and the painlessMesh library. Includes examples for broadcasting messages, direct node-to-node communication, and routing based on signal strength. Ideal for learning decentralized IoT networking, callback handling, and mesh topology behavior.
